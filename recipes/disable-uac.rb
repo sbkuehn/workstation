@@ -10,7 +10,7 @@ end
 
 registry_key system_policies do 
   values [{
-      name: 'ConsentPromptBehavior',
+      name: 'ConsentPromptBehaviorAdmin',
       type: :dword,
       data: 0
   }]
